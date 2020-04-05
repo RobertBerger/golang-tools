@@ -3,6 +3,7 @@ module golang.org/x/tools
 go 1.11
 
 require (
+	github.com/golang/example v0.0.0-20170904185048-46695d81d1fa // indirect
 	github.com/yuin/goldmark v1.1.27
 	golang.org/x/mod v0.2.0
 	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
